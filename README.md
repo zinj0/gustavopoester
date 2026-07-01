@@ -4,19 +4,20 @@ Site portfolio de Gustavo Poester, artista visual brasileiro.
 
 ## Estrutura
 
-- `SITE/html/`: páginas HTML do site.
-- `SITE/css/`: estilos.
-- `SITE/js/`: scripts.
-- `SITE/data/`: catálogos em JSON/JS.
-- `SITE/images/`: imagens, vídeos e favicon.
+- `index.html`: página inicial do site.
+- `html/`: páginas HTML do site.
+- `css/`: estilos.
+- `js/`: scripts.
+- `data/`: catálogos em JSON/JS.
+- `images/`: imagens, vídeos e favicon.
 
 ## Uso Local
 
-Abra `SITE/index.html` no navegador. Ele redireciona para `SITE/html/index.html`.
+Abra `index.html` no navegador.
 
 ## Publicação
 
-Este projeto pode ser hospedado como site estático no GitHub Pages. A pasta principal do site é `SITE/`.
+Este projeto pode ser hospedado como site estático no GitHub Pages usando a raiz do repositório.
 
 ## Direitos
 
