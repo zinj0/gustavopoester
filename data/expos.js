@@ -1,0 +1,449 @@
+window.exposCatalog = [
+  {
+    "id": "la-colghada",
+    "title": "La Colghada",
+    "year": "2025",
+    "location": "Galería Sala del Plata, Buenos Aires",
+    "flyer": "../images/expos/LA COLGHADA/FLYER.jpeg",
+    "flyerColor": "#86a8d4",
+    "description": {
+      "pt": "",
+      "es": "",
+      "en": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "src": "../images/expos/LA COLGHADA/1.jpeg",
+        "color": "#86a8d4",
+        "alt": {
+          "pt": "Registro da exposição La Colghada 1",
+          "es": "Registro de la exposición La Colghada 1",
+          "en": "Documentation of the exhibition La Colghada 1"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/LA COLGHADA/2.jpeg",
+        "color": "#86a8d4",
+        "alt": {
+          "pt": "Registro da exposição La Colghada 2",
+          "es": "Registro de la exposición La Colghada 2",
+          "en": "Documentation of the exhibition La Colghada 2"
+        }
+      }
+    ],
+    "category": "collective",
+    "date": "2025-11-14"
+  },
+  {
+    "id": "objetos-de-meditacion",
+    "title": {
+      "pt": "Objetos de Meditação",
+      "es": "Objetos de Meditación",
+      "en": "Objects of Meditation"
+    },
+    "year": "",
+    "location": "Galería Vermeer, CABA",
+    "flyer": "../images/expos/OBJETOS DE MEDITACION/FLYER.jpeg",
+    "flyerColor": "#8fae98",
+    "description": {
+      "pt": "",
+      "es": "",
+      "en": ""
+    },
+    "media": [],
+    "category": "collective",
+    "date": "2025-08-21",
+    "externalUrl": "https://www.infobae.com/cultura/2025/09/15/batlle-planas-el-zen-y-el-automatismo-en-una-muestra-que-recorre-su-otro-legado/?gad_source=1&gad_campaignid=20993778607&gbraid=0AAAAADmqXxQZEzE3yizw9_R90XjaFBjUG&gclid=CjwKCAjw0o3SBhBVEiwAh28-jW9EaYbc80mM6e-5XLsQ0Nq0iC8mIqkBPiLCLUbqu4PB1qlK4SP9vBoCKrcQAvD_BwE"
+  },
+  {
+    "id": "coreomania",
+    "title": "Coreomania",
+    "year": "2026",
+    "location": "Casa de cultura Mario Quintana, Porto Alegre",
+    "flyer": "../images/expos/COREOMANIA/FLYER.jpeg",
+    "flyerColor": "#b7d6c3",
+    "description": {
+      "pt": "Exposição individual de Gustavo Poester.",
+      "es": "Exposición individual de Gustavo Poester.",
+      "en": "Solo exhibition by Gustavo Poester."
+    },
+    "media": [
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/1.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 1",
+          "es": "Registro de la exposición Coreomania 1",
+          "en": "Documentation of the exhibition Coreomania 1"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/2.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 2",
+          "es": "Registro de la exposición Coreomania 2",
+          "en": "Documentation of the exhibition Coreomania 2"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/3.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 3",
+          "es": "Registro de la exposición Coreomania 3",
+          "en": "Documentation of the exhibition Coreomania 3"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/4.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 4",
+          "es": "Registro de la exposición Coreomania 4",
+          "en": "Documentation of the exhibition Coreomania 4"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/5.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 5",
+          "es": "Registro de la exposición Coreomania 5",
+          "en": "Documentation of the exhibition Coreomania 5"
+        }
+      },
+      {
+        "type": "video",
+        "src": "../images/expos/COREOMANIA/6.mp4",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 6",
+          "es": "Registro de la exposición Coreomania 6",
+          "en": "Documentation of the exhibition Coreomania 6"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/7.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 7",
+          "es": "Registro de la exposición Coreomania 7",
+          "en": "Documentation of the exhibition Coreomania 7"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/8.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 8",
+          "es": "Registro de la exposición Coreomania 8",
+          "en": "Documentation of the exhibition Coreomania 8"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/9.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 9",
+          "es": "Registro de la exposición Coreomania 9",
+          "en": "Documentation of the exhibition Coreomania 9"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/10.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 10",
+          "es": "Registro de la exposición Coreomania 10",
+          "en": "Documentation of the exhibition Coreomania 10"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/11.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 11",
+          "es": "Registro de la exposición Coreomania 11",
+          "en": "Documentation of the exhibition Coreomania 11"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/12.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 12",
+          "es": "Registro de la exposición Coreomania 12",
+          "en": "Documentation of the exhibition Coreomania 12"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/13.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 13",
+          "es": "Registro de la exposición Coreomania 13",
+          "en": "Documentation of the exhibition Coreomania 13"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/COREOMANIA/14.jpeg",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Registro da exposição Coreomania 14",
+          "es": "Registro de la exposición Coreomania 14",
+          "en": "Documentation of the exhibition Coreomania 14"
+        }
+      }
+    ],
+    "category": "individual",
+    "date": "2026-06-09",
+    "credits": {
+      "pt": "Thiele Elissa e Guilherme Rangel",
+      "es": "Thiele Elissa y Guilherme Rangel",
+      "en": "Thiele Elissa and Guilherme Rangel"
+    }
+  },
+  {
+    "id": "el-entierro",
+    "title": "El Entierro",
+    "year": "2026",
+    "location": "Galería Sach, Buenos Aires",
+    "flyer": "../images/expos/EL ENTIERRO/FLYER.jpeg",
+    "flyerColor": "#d69b87",
+    "description": {
+      "pt": "Exposição de Gustavo Poester.",
+      "es": "Exposición de Gustavo Poester.",
+      "en": "Exhibition by Gustavo Poester."
+    },
+    "media": [
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/1.JPG",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 1",
+          "es": "Registro de la exposición El Entierro 1",
+          "en": "Documentation of the exhibition El Entierro 1"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/2.jpeg",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 2",
+          "es": "Registro de la exposición El Entierro 2",
+          "en": "Documentation of the exhibition El Entierro 2"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/3.jpeg",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 3",
+          "es": "Registro de la exposición El Entierro 3",
+          "en": "Documentation of the exhibition El Entierro 3"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/4.jpeg",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 4",
+          "es": "Registro de la exposición El Entierro 4",
+          "en": "Documentation of the exhibition El Entierro 4"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/5.jpeg",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 5",
+          "es": "Registro de la exposición El Entierro 5",
+          "en": "Documentation of the exhibition El Entierro 5"
+        }
+      },
+      {
+        "type": "video",
+        "src": "../images/expos/EL ENTIERRO/6.mp4",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 6",
+          "es": "Registro de la exposición El Entierro 6",
+          "en": "Documentation of the exhibition El Entierro 6"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/7.jpeg",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 7",
+          "es": "Registro de la exposición El Entierro 7",
+          "en": "Documentation of the exhibition El Entierro 7"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/8.jpeg",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 8",
+          "es": "Registro de la exposición El Entierro 8",
+          "en": "Documentation of the exhibition El Entierro 8"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/EL ENTIERRO/10.JPG",
+        "color": "#d69b87",
+        "alt": {
+          "pt": "Registro da exposição El Entierro 10",
+          "es": "Registro de la exposición El Entierro 10",
+          "en": "Documentation of the exhibition El Entierro 10"
+        }
+      }
+    ],
+    "category": "individual",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "entre-oro-hielo-hueso",
+    "title": {
+      "pt": "Entre ouro, gelo e osso",
+      "es": "Entre oro, hielo y hueso",
+      "en": "Between gold, ice and bone"
+    },
+    "year": "2026",
+    "location": "Galería Vol48, Buenos Aires",
+    "flyer": "",
+    "flyerColor": "#9c8ebd",
+    "description": {
+      "pt": "Exposição de Gustavo Poester.",
+      "es": "Exposición de Gustavo Poester.",
+      "en": "Exhibition by Gustavo Poester."
+    },
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "color": "#d9a1ad",
+        "alt": {
+          "pt": "Imagem da exposição Entre ouro, gelo e osso",
+          "es": "Imagen de la exposición Entre oro, hielo y hueso",
+          "en": "Image from the exhibition Between gold, ice and bone"
+        }
+      },
+      {
+        "type": "image",
+        "src": "",
+        "color": "#b7d6c3",
+        "alt": {
+          "pt": "Vista da exposição Entre ouro, gelo e osso",
+          "es": "Vista de la exposición Entre oro, hielo y hueso",
+          "en": "Installation view of the exhibition Between gold, ice and bone"
+        }
+      },
+      {
+        "type": "video",
+        "src": "",
+        "color": "#b8b8b8",
+        "alt": {
+          "pt": "Vídeo da exposição Entre ouro, gelo e osso",
+          "es": "Video de la exposición Entre oro, hielo y hueso",
+          "en": "Video from the exhibition Between gold, ice and bone"
+        }
+      }
+    ],
+    "category": "collective",
+    "date": "2026-07-09",
+    "galleryDisabled": true
+  },
+  {
+    "id": "susurros-de-ensueno",
+    "title": "Susurros de Ensueño",
+    "year": "2026",
+    "location": "Estudio Labrado, Buenos Aires",
+    "flyer": "../images/expos/SUSSUROS DE ENSUENO/FLYER.jpeg",
+    "flyerColor": "#d7ca86",
+    "description": {
+      "pt": "Exposição de Gustavo Poester.",
+      "es": "Exposición de Gustavo Poester.",
+      "en": "Exhibition by Gustavo Poester."
+    },
+    "media": [
+      {
+        "type": "image",
+        "src": "../images/expos/SUSSUROS DE ENSUENO/1.png",
+        "color": "#d7ca86",
+        "alt": {
+          "pt": "Registro da exposição Susurros de Ensueño 1",
+          "es": "Registro de la exposición Susurros de Ensueño 1",
+          "en": "Documentation of the exhibition Susurros de Ensueño 1"
+        }
+      },
+      {
+        "type": "video",
+        "src": "../images/expos/SUSSUROS DE ENSUENO/2.mp4",
+        "color": "#d7ca86",
+        "alt": {
+          "pt": "Registro da exposição Susurros de Ensueño 2",
+          "es": "Registro de la exposición Susurros de Ensueño 2",
+          "en": "Documentation of the exhibition Susurros de Ensueño 2"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/SUSSUROS DE ENSUENO/3.JPG",
+        "color": "#d7ca86",
+        "alt": {
+          "pt": "Registro da exposição Susurros de Ensueño 3",
+          "es": "Registro de la exposición Susurros de Ensueño 3",
+          "en": "Documentation of the exhibition Susurros de Ensueño 3"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/SUSSUROS DE ENSUENO/4.JPG",
+        "color": "#d7ca86",
+        "alt": {
+          "pt": "Registro da exposição Susurros de Ensueño 4",
+          "es": "Registro de la exposición Susurros de Ensueño 4",
+          "en": "Documentation of the exhibition Susurros de Ensueño 4"
+        }
+      },
+      {
+        "type": "image",
+        "src": "../images/expos/SUSSUROS DE ENSUENO/5.JPG",
+        "color": "#d7ca86",
+        "alt": {
+          "pt": "Registro da exposição Susurros de Ensueño 5",
+          "es": "Registro de la exposición Susurros de Ensueño 5",
+          "en": "Documentation of the exhibition Susurros de Ensueño 5"
+        }
+      }
+    ],
+    "category": "collective",
+    "date": "2026-06-13"
+  }
+]
+;
