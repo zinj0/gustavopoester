@@ -234,7 +234,7 @@ window.exposCatalog = [
     "media": [
       {
         "type": "image",
-        "src": "../images/expos/EL ENTIERRO/1.JPG",
+        "src": "../images/expos/EL ENTIERRO/1.jpeg",
         "color": "#d69b87",
         "alt": {
           "pt": "Registro da exposição El Entierro 1",
@@ -314,7 +314,7 @@ window.exposCatalog = [
       },
       {
         "type": "image",
-        "src": "../images/expos/EL ENTIERRO/10.JPG",
+        "src": "../images/expos/EL ENTIERRO/10.jpeg",
         "color": "#d69b87",
         "alt": {
           "pt": "Registro da exposição El Entierro 10",
