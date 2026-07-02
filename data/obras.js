@@ -1,5 +1,24 @@
 window.worksCatalog = [
   {
+    "id": "2612",
+    "year": "2026",
+    "title": "Corpo I",
+    "series": "Corpos",
+    "technique": "Óleo sobre tela",
+    "dimensions": "",
+    "completedAt": "",
+    "status": "Atelie",
+    "location": "CABA",
+    "price": "",
+    "soldYear": "",
+    "image": "../images/obras/CORPO 1.png",
+    "holder": "",
+    "orientation": "vertical",
+    "availability": "disp.",
+    "spatiality": "pintura",
+    "background": "magenta"
+  },
+  {
     "id": "2611",
     "year": "2026",
     "title": "Catedral",

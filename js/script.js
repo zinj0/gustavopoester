@@ -256,6 +256,18 @@ function changeLanguage(lang) {
 
     });
 
+    document.querySelectorAll("[data-i18n-html]").forEach(element => {
+
+        const key = element.dataset.i18nHtml;
+
+        if (langTranslations[key]) {
+
+            element.innerHTML = langTranslations[key];
+
+        }
+
+    });
+
     document.querySelectorAll("[data-i18n-alt]").forEach(element => {
 
         const key = element.dataset.i18nAlt;
