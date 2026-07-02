@@ -335,7 +335,7 @@ window.exposCatalog = [
     },
     "year": "2026",
     "location": "Galería Vol48, Buenos Aires",
-    "flyer": "",
+    "flyer": "../images/expos/ENTRE ORO, HIELO Y HUESO/FLYER.png",
     "flyerColor": "#9c8ebd",
     "description": {
       "pt": "Exposição de Gustavo Poester.",
@@ -376,7 +376,9 @@ window.exposCatalog = [
     ],
     "category": "collective",
     "date": "2026-07-09",
-    "galleryDisabled": true
+    "galleryDisabled": true,
+    "externalUrl": "https://www.instagram.com/vol48__/",
+    "gallery": []
   },
   {
     "id": "susurros-de-ensueno",
