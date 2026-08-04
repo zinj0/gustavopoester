@@ -1,5 +1,24 @@
 [
   {
+    "id": "2613",
+    "year": "2026",
+    "title": "Carrossel I",
+    "series": "Carrosséis",
+    "technique": "Óleo sobre tela",
+    "dimensions": "90x120",
+    "completedAt": "26/07/2026",
+    "status": "Atelie",
+    "location": "CABA",
+    "price": "",
+    "soldYear": "",
+    "image": "../images/obras/Carrossel I.png",
+    "holder": "Acervo do artista",
+    "orientation": "vertical",
+    "availability": "disp.",
+    "spatiality": "pintura",
+    "background": "verde"
+  },
+  {
     "id": "2612",
     "year": "2026",
     "title": "Corpo I",
