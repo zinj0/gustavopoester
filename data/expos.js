@@ -3,7 +3,7 @@ window.exposCatalog = [
     "id": "disparate",
     "title": "Disparate",
     "year": "2026",
-    "location": "Divina Negra",
+    "location": "Playa Negra",
     "flyer": "../images/expos/DISPARATE/FLYER.png",
     "flyerColor": "#9b6470",
     "description": {
