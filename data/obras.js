@@ -1,5 +1,24 @@
 window.worksCatalog = [
   {
+    "id": "2614",
+    "year": "2026",
+    "title": "Carrossel II",
+    "series": "Carrosséis",
+    "technique": "Óleo sobre tela",
+    "dimensions": "90x120",
+    "completedAt": "",
+    "status": "Atelie",
+    "location": "CABA",
+    "price": "",
+    "soldYear": "",
+    "image": "../images/obras/Carrossel II.jpeg",
+    "holder": "Acervo do artista",
+    "orientation": "vertical",
+    "availability": "disp.",
+    "spatiality": "pintura",
+    "background": "magenta"
+  },
+  {
     "id": "2613",
     "year": "2026",
     "title": "Carrossel I",
@@ -21,7 +40,7 @@ window.worksCatalog = [
   {
     "id": "2612",
     "year": "2026",
-    "title": "Corpo I",
+    "title": "Organismo",
     "series": "Corpos",
     "technique": "Óleo sobre tela",
     "dimensions": "90x120",

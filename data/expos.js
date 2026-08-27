@@ -1,5 +1,22 @@
 window.exposCatalog = [
   {
+    "id": "disparate",
+    "title": "Disparate",
+    "year": "2026",
+    "location": "Divina Negra",
+    "flyer": "../images/expos/DISPARATE/FLYER.png",
+    "flyerColor": "#9b6470",
+    "description": {
+      "pt": "",
+      "es": "",
+      "en": ""
+    },
+    "media": [],
+    "category": "collective",
+    "date": "2026-08-27",
+    "externalUrl": "https://www.instagram.com/p/DcJlH-ylUOp/?img_index=1"
+  },
+  {
     "id": "la-colghada",
     "title": "La Colghada",
     "year": "2025",
@@ -221,7 +238,7 @@ window.exposCatalog = [
   },
   {
     "id": "el-entierro",
-    "title": "El Entierro",
+    "title": "Entierro",
     "year": "2026",
     "location": "Galería Sach, Buenos Aires",
     "flyer": "../images/expos/EL ENTIERRO/FLYER.jpeg",
@@ -237,9 +254,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/1.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 1",
-          "es": "Registro de la exposición El Entierro 1",
-          "en": "Documentation of the exhibition El Entierro 1"
+          "pt": "Registro da exposição Entierro 1",
+          "es": "Registro de la exposición Entierro 1",
+          "en": "Documentation of the exhibition Entierro 1"
         }
       },
       {
@@ -247,9 +264,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/2.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 2",
-          "es": "Registro de la exposición El Entierro 2",
-          "en": "Documentation of the exhibition El Entierro 2"
+          "pt": "Registro da exposição Entierro 2",
+          "es": "Registro de la exposición Entierro 2",
+          "en": "Documentation of the exhibition Entierro 2"
         }
       },
       {
@@ -257,9 +274,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/3.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 3",
-          "es": "Registro de la exposición El Entierro 3",
-          "en": "Documentation of the exhibition El Entierro 3"
+          "pt": "Registro da exposição Entierro 3",
+          "es": "Registro de la exposición Entierro 3",
+          "en": "Documentation of the exhibition Entierro 3"
         }
       },
       {
@@ -267,9 +284,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/4.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 4",
-          "es": "Registro de la exposición El Entierro 4",
-          "en": "Documentation of the exhibition El Entierro 4"
+          "pt": "Registro da exposição Entierro 4",
+          "es": "Registro de la exposición Entierro 4",
+          "en": "Documentation of the exhibition Entierro 4"
         }
       },
       {
@@ -277,9 +294,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/5.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 5",
-          "es": "Registro de la exposición El Entierro 5",
-          "en": "Documentation of the exhibition El Entierro 5"
+          "pt": "Registro da exposição Entierro 5",
+          "es": "Registro de la exposición Entierro 5",
+          "en": "Documentation of the exhibition Entierro 5"
         }
       },
       {
@@ -287,9 +304,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/6.mp4",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 6",
-          "es": "Registro de la exposición El Entierro 6",
-          "en": "Documentation of the exhibition El Entierro 6"
+          "pt": "Registro da exposição Entierro 6",
+          "es": "Registro de la exposición Entierro 6",
+          "en": "Documentation of the exhibition Entierro 6"
         }
       },
       {
@@ -297,9 +314,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/7.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 7",
-          "es": "Registro de la exposición El Entierro 7",
-          "en": "Documentation of the exhibition El Entierro 7"
+          "pt": "Registro da exposição Entierro 7",
+          "es": "Registro de la exposición Entierro 7",
+          "en": "Documentation of the exhibition Entierro 7"
         }
       },
       {
@@ -307,9 +324,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/8.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 8",
-          "es": "Registro de la exposición El Entierro 8",
-          "en": "Documentation of the exhibition El Entierro 8"
+          "pt": "Registro da exposição Entierro 8",
+          "es": "Registro de la exposición Entierro 8",
+          "en": "Documentation of the exhibition Entierro 8"
         }
       },
       {
@@ -317,9 +334,9 @@ window.exposCatalog = [
         "src": "../images/expos/EL ENTIERRO/10.jpeg",
         "color": "#d69b87",
         "alt": {
-          "pt": "Registro da exposição El Entierro 10",
-          "es": "Registro de la exposición El Entierro 10",
-          "en": "Documentation of the exhibition El Entierro 10"
+          "pt": "Registro da exposição Entierro 10",
+          "es": "Registro de la exposición Entierro 10",
+          "en": "Documentation of the exhibition Entierro 10"
         }
       }
     ],
