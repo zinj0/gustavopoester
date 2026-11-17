@@ -351,19 +351,47 @@ window.addEventListener("resize", () => {
    MARQUEE
 =========================== */
 
-/*
-A animação principal é feita em CSS.
-
-Este trecho apenas duplica automaticamente
-o conteúdo do letreiro para impedir espaços
-vazios durante a rolagem.
-*/
-
 const marquee = document.getElementById("marqueeTrack");
 
 if (marquee) {
 
-    marquee.innerHTML += marquee.innerHTML;
+    const originals = Array.from(marquee.children);
+
+    function fillMarquee() {
+
+        const gap = parseFloat(getComputedStyle(marquee).columnGap) || 0;
+        const distance = originals.reduce((width, item) => width + item.getBoundingClientRect().width + gap, 0);
+
+        if (!distance) return;
+
+        marquee.querySelectorAll("[data-marquee-copy]").forEach(item => item.remove());
+
+        // Keep enough copies visible throughout one complete announcement cycle.
+        const copies = Math.ceil((marquee.parentElement.clientWidth + gap) / distance);
+        const fragment = document.createDocumentFragment();
+
+        for (let i = 0; i < copies; i++) {
+            originals.forEach(item => {
+                const copy = item.cloneNode(true);
+                copy.dataset.marqueeCopy = "";
+                copy.setAttribute("aria-hidden", "true");
+                copy.tabIndex = -1;
+                fragment.appendChild(copy);
+            });
+        }
+
+        marquee.appendChild(fragment);
+        marquee.style.setProperty("--marquee-distance", `${distance}px`);
+        marquee.classList.add("is-ready");
+
+    }
+
+    fillMarquee();
+
+    const marqueeObserver = new ResizeObserver(fillMarquee);
+    marqueeObserver.observe(marquee.parentElement);
+    originals.forEach(item => marqueeObserver.observe(item));
+    document.fonts.ready.then(fillMarquee);
 
 }
 

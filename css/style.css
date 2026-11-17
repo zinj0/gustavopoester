@@ -342,9 +342,14 @@ a.menu-title{
     display:flex;
     width:max-content;
 
-    gap:90px;
+    gap:150px;
 
     animation:marquee 35s linear infinite;
+    animation-play-state:paused;
+}
+
+.marquee-track.is-ready{
+    animation-play-state:running;
 }
 
 .marquee:hover .marquee-track{
@@ -369,7 +374,7 @@ a.menu-title{
         transform:translateX(0);
     }
     to{
-        transform:translateX(-50%);
+        transform:translateX(calc(-1 * var(--marquee-distance, 0px)));
     }
 }
 
@@ -884,8 +889,9 @@ body{
     align-self:flex-start;
     padding:0;
     background:transparent;
-    font-size:0.6875rem;
+    font-size:0.75rem;
     font-weight:300;
+    opacity:0.7;
     line-height:1.35;
     text-align:left;
 }
@@ -1029,8 +1035,9 @@ body{
     justify-content:space-between;
     gap:36px;
     width:100%;
-    font-size:0.75rem;
+    font-size:0.8125rem;
     font-weight:300;
+    opacity:0.7;
 }
 
 .work-lightbox-caption-text strong{
@@ -1448,8 +1455,8 @@ nav{
     grid-template-columns:repeat(3,minmax(0,1fr));
     width:100%;
     margin:0 auto;
-    gap:48px 24px;
-    padding:10px 16px 84px;
+    gap:56px 36px;
+    padding:10px 24px 84px;
 }
 
 .work-card-horizontal{
