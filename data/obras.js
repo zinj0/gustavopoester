@@ -3,7 +3,7 @@ window.worksCatalog = [
     "id": "2616",
     "year": "2026",
     "title": "Herzog",
-    "series": "",
+    "series": "Enterro",
     "technique": "Óleo sobre tela",
     "dimensions": "50x70",
     "completedAt": "10/2026",
