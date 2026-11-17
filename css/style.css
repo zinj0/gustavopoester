@@ -344,7 +344,7 @@ a.menu-title{
 
     gap:90px;
 
-    animation:marquee 80s linear infinite;
+    animation:marquee 35s linear infinite;
 }
 
 .marquee:hover .marquee-track{
@@ -1448,8 +1448,8 @@ nav{
     grid-template-columns:repeat(3,minmax(0,1fr));
     width:100%;
     margin:0 auto;
-    gap:48px;
-    padding:10px 32px 84px;
+    gap:48px 24px;
+    padding:10px 16px 84px;
 }
 
 .work-card-horizontal{
